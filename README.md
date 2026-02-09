@@ -1,6 +1,6 @@
 # Skill-Oriented Co-Design for Robust Dexterous Grasping
 <img width="3662" height="1517" alt="image" src="https://github.com/user-attachments/assets/da85a350-2a0b-45bb-8878-5acde35c4e5f" />
-Picture from paper Co-Design of Soft Gripper with Neural Physics, Yi, Sha and Bai, Xueqian and Singh, Adabhav and Ye, Jianglong and Tolley, Michael T and Wang, Xiaolong, Conference on Robot Learning, 
+Picture from paper Co-Design of Soft Gripper with Neural Physics, Yi, Sha and Bai, Xueqian and Singh, Adabhav and Ye, Jianglong and Tolley, Michael T and Wang, Xiaolong, Conference on Robot Learning, 2025.
 
 
 ## О проекте
